@@ -36,8 +36,13 @@ body {
 
 h1,
 h2,
+h3,
 h4 {
   font-family: 'Dancing Script', cursive;
+}
+
+h5 {
+  text-align: center;
 }
 
 .heading_container {
@@ -360,6 +365,7 @@ a:focus {
 .slider_section .detail-box {
   color: #ffffff;
   margin-bottom: 145px;
+  text-align: center;
 }
 
 .slider_section .detail-box h1 {
